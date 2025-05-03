@@ -23,7 +23,7 @@ let header = $(`
 
 <div class="collapse navbar-collapse " id="navbarSupportedContent">
   <ul class="navbar-nav ml-auto" id = "navbar-content">
-   <li class="nav-item nav-item-hover"><a class="nav-link" href="index.html">Home</a></li>
+   <li class="nav-item nav-item-hover"><a class="nav-link" href="index.html">There is no place like 127.0.0.1</a></li>
    
    <li class="nav-item nav-item-hover"><a class="nav-link" href="https://akshat-aqui.hashnode.dev/" target="_blank">Blog</a></li>
    <li class="nav-item">
